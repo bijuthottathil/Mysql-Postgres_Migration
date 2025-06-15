@@ -17,6 +17,22 @@
 13. Data migrated successfully
 14. ![image](https://github.com/user-attachments/assets/afbdd004-a686-4e7c-8206-709937aa8e21)
 
+# Adding incrimental logic
+
+1. Added lookup activity ()  with below condition to get latest data from destination table to do increment load
+   ![image](https://github.com/user-attachments/assets/815a7dc7-008b-4ca5-ac26-3952ea28183a)
+2. Added proper sql query to take only data > watermark
+
+3. ![image](https://github.com/user-attachments/assets/27660acb-13c7-4a89-93db-19eef8739291)
+
+4. Deleted all records from table inventory and added only 25 records (old) in Mysql DB
+
+5. ![image](https://github.com/user-attachments/assets/1a2bf0ed-c592-4058-95b0-ea940180aa96)
+
+6. 
+
+
+
 
 
 
