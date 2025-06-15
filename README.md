@@ -9,6 +9,19 @@
 5. ![image](https://github.com/user-attachments/assets/0579df81-6576-48df-978d-e59d7d6632f7)
 6. Setting up ADF dataset and linked sevices for Mysql  ![image](https://github.com/user-attachments/assets/cb9615e7-ac62-461b-8ef3-bb77154179f7)
 7. Creating postgres DB in Azure  ![image](https://github.com/user-attachments/assets/672f577e-d213-445e-bb43-e1fc85985ac2)
+8. ![image](https://github.com/user-attachments/assets/1bd38d33-260a-4039-8b59-0779189bd523)
+9. ![image](https://github.com/user-attachments/assets/aa3bbcc3-382a-41cd-b0d9-173ed0c5e460)
+10. ![image](https://github.com/user-attachments/assets/fbd656a8-d588-482b-a00b-bb41c4050513)
+11. ![image](https://github.com/user-attachments/assets/8809e737-1fe1-40fe-b4c3-e704ab72ee97)
+12. ![image](https://github.com/user-attachments/assets/ae6009f8-21c7-4505-8202-0f05472612d6)
+13. Data migrated successfully
+14. ![image](https://github.com/user-attachments/assets/afbdd004-a686-4e7c-8206-709937aa8e21)
+
+
+
+
+
+
 
 
 
