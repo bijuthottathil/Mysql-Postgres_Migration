@@ -1,4 +1,4 @@
-Migration of on prem Mysql tables to Azure Postgres DB
+Migration of on prem Mysql tables to Azure Postgres DB using Azure Data Factory
 
 1. Mysql setup
    
