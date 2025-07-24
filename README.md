@@ -1,5 +1,8 @@
 Migration of on prem Mysql tables to Azure Postgres DB using Azure Data Factory
 
+<img width="1006" height="471" alt="image" src="https://github.com/user-attachments/assets/8ad09e00-70d9-4456-9bc0-cffa795d053c" />
+
+
 1. Mysql setup
    
 2.    ![image](https://github.com/user-attachments/assets/8e922356-0c49-4094-8995-b764b9084e27)
