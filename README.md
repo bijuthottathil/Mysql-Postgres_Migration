@@ -1,4 +1,4 @@
-# mysqltopostgresmigration
+Migration of on prem Mysql tables to Azure Postgres DB
 
 1. Mysql setup
    
